@@ -8,7 +8,7 @@ function classNames(...classes) {
 }
 
 const Navbar = () => {
-  const currentUser = { displayName: "felix franko" };
+  const currentUser = { displayName: "Yusuf" };
   return (
     <>
       <Disclosure as="nav" className="text-white fixed top-0 z-20 w-full">
