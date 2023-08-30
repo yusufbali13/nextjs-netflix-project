@@ -8,7 +8,8 @@ function classNames(...classes) {
 }
 
 const Navbar = () => {
-  const currentUser = { displayName: "Yusuf" };
+  const currentUser = { displayName: "felix franko" };
+  console.log(currentUser);
   return (
     <>
       <Disclosure as="nav" className="text-white fixed top-0 z-20 w-full">
