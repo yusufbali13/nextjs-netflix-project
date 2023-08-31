@@ -1,14 +1,15 @@
 "use client";
+import { useAuthContext } from "@/context/AuthContext";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
-import React, { Fragment } from "react";
+import React, { Fragment, useContext } from "react";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
 const Navbar = () => {
-  const currentUser = { displayName: "Yusuf" };
+  const { currentUser } = useAuthContext();
   console.log(currentUser);
   return (
     <>
@@ -94,7 +95,7 @@ const Navbar = () => {
                             "block px-4 py-2 text-sm text-gray-700 cursor-pointer"
                           )}
                           role="button"
-                          //   onClick={() => logOut()}
+                          onClick={() => logOut()}
                         >
                           Log out
                         </span>
