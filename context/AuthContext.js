@@ -66,6 +66,7 @@ const AuthContextProvider = ({ children }) => {
         password
       );
       toastSuccessNotify("Logged in successfully!");
+      router.push("/profile");
       console.log(userCredential);
     } catch (err) {
       toastErrorNotify(err.message);
@@ -108,6 +109,7 @@ const AuthContextProvider = ({ children }) => {
       .then((result) => {
         console.log(result);
         toastSuccessNotify("Logged in successfully!");
+        router.push("/profile");
       })
       .catch((error) => {
         // Handle Errors here.

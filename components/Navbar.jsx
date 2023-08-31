@@ -2,14 +2,14 @@
 import { useAuthContext } from "@/context/AuthContext";
 import { Disclosure, Menu, Transition } from "@headlessui/react";
 import Link from "next/link";
-import React, { Fragment, useContext } from "react";
+import React, { Fragment } from "react";
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
 const Navbar = () => {
-  const { currentUser } = useAuthContext();
+  const { currentUser, logOut } = useAuthContext();
   console.log(currentUser);
   return (
     <>
