@@ -10,7 +10,6 @@ import { useEffect } from "react";
 export default function Home() {
   const { currentUser } = useAuthContext();
   let router = useRouter();
-
   useEffect(() => {
     currentUser && router.push("/movies");
   }, [currentUser]);

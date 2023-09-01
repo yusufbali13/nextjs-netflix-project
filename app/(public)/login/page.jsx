@@ -1,4 +1,5 @@
 "use client";
+
 import { AuthContext } from "@/context/AuthContext";
 import GoogleIcon from "@/public/icons/GoogleIcon";
 import Link from "next/link";
@@ -17,7 +18,6 @@ const Login = () => {
   const handleProviderLogin = () => {
     signUpProvider();
   };
-
   return (
     <div className="relative h-screen w-full bg-[url('/images/hero.jpg')] bg-no-repeat bg-center bg-fixed bg-cover">
       <div className="bg-black w-full h-full lg:bg-opacity-50">

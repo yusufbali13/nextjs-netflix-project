@@ -17,9 +17,9 @@ const Movies = async () => {
         id={movies[0]?.id}
       />
       <div className="px-4 md:px-12 mt-4">
-        <MovieSection title="NOW PLAYING" type="now-playing" />
+        <MovieSection title="NOW PLAYING" type="now_playing" />
         <MovieSection title="POPULAR" type="popular" />
-        <MovieSection title="TOP RATED" type="top-rated" />
+        <MovieSection title="TOP RATED" type="top_rated" />
         <MovieSection title="UPCOMING" type="upcoming" />
       </div>
     </>

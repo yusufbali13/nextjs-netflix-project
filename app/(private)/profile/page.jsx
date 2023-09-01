@@ -6,7 +6,7 @@ export const metadata = {
 };
 const Profile = () => {
   return (
-    <div className="flex items-center justify-center mt-10">
+    <div className="flex items-center justify-center mt-20">
       <div className="flex flex-col">
         <h1>Who&#39;s watching?</h1>
         <CardContainer />
