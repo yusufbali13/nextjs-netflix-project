@@ -47,4 +47,5 @@ Bu projenin amacı, Next.js, Tailwind CSS ve Firebase kullanarak web uygulamalar
 
 ##  :camera: Gallery
 
+![inter-min](https://github.com/yusufbali13/nextjs-netflix-project/assets/119419061/d519add8-3f49-4a36-98af-fc85f119ec09)
 
