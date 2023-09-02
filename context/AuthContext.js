@@ -107,6 +107,7 @@ const AuthContextProvider = ({ children }) => {
     //? Açılır pencere ile giriş yapılması için kullanılan firebase metodu
     signInWithPopup(auth, provider)
       .then((result) => {
+        console.log(result);
         toastSuccessNotify("Logged in successfully!");
         router.push("/profile");
       })
