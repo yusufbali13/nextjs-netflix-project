@@ -1,3 +1,25 @@
+<div align="center">
+  <a href="https://milesstone-project.netlify.app/assets/avatar-b5a1fd7f.jpg">
+    <img src="https://milesstone-project.netlify.app/assets/avatar-b5a1fd7f.jpg" width="100" height="100">
+  </a>
+  
+  <h2 align="center">Netxflix App</h2>
+
+   <p align="center">
+    A Netflix Clone built with Next.js, Firebase, React, and Tailwind CSS.
+  </p>
+
+  <p>
+    <a href="https://github.com/yamisagi/yamisagi"><strong>About Me 💙»</strong></a>
+    <br />
+    <br />
+     <strong>📫 How to reach me</strong> <a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamisagi" height="30" width="40" /></a>
+  </p>
+</div>
+
+<br/>
+
 # Introduction
 
 Bu projenin amacı, modern web uygulamaları geliştirmek için gerekli olan bazı temel teknolojileri bir araya getirmek ve bu teknolojilerin nasıl entegre edileceğini göstermektir. Projede kullanılan temel teknolojiler şunlardır:
