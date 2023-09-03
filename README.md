@@ -10,11 +10,11 @@
   </p>
 
   <p>
-    <a href="https://github.com/yamisagi/yamisagi"><strong>About Me 💙»</strong></a>
+    <a href="https://github.com/yusufbali13"><strong>About Me 💙»</strong></a>
     <br />
     <br />
-     <strong>📫 How to reach me</strong> <a href="https://twitter.com/_yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yamisagi" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/yamisagi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yamisagi" height="30" width="40" /></a>
+     <strong>📫 How to reach me</strong>
+    <a href="https://www.linkedin.com/in/yusuf-bali/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yusufbali" height="30" width="40" /></a>
   </p>
 </div>
 
