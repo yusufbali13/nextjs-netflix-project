@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <a href="https://milesstone-project.netlify.app/assets/avatar-b5a1fd7f.jpg">
     <img src="https://o.remove.bg/downloads/11536078-e54f-48b7-ad8f-f0588a371931/images-removebg-preview-removebg-preview.png" width="130" height="130">
@@ -67,3 +68,6 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
   <br/>
+=======
+
+>>>>>>> ccc813db863728085634affc098dbd757eb92246
