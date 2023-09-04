@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://milesstone-project.netlify.app/assets/avatar-b5a1fd7f.jpg">
-    <img src="https://milesstone-project.netlify.app/assets/avatar-b5a1fd7f.jpg" width="100" height="100">
+    <img src="https://o.remove.bg/downloads/11536078-e54f-48b7-ad8f-f0588a371931/images-removebg-preview-removebg-preview.png" width="200" height="200">
   </a>
   
   <h2 align="center">Netxflix App</h2>
