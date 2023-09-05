@@ -3,7 +3,7 @@
     <img src="https://avatars.githubusercontent.com/u/119419061?v=4" width="130" height="130">
   </a>
   
-  <h2 align="center">Netxflix App</h2>
+  <h2 align="center">Netflix App</h2>
 
    <p align="center">
     A Netflix Clone built with Next.js, Firebase, React, and Tailwind CSS.
